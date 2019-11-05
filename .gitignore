@@ -2,3 +2,12 @@
 Datasets/analisisHVAC.xlsx
 *.dot
 *.png
+AprendizajeConReglasDeAsociacion/*.py
+AprendizajeConReglasDeAsociacion/*.txt
+AprendizajeConReglasDeAsociacion/*.md
+AprendizajeConReglasDeAsociacion/*.cfg
+AprendizajeConReglasDeAsociacion/PKG-INFO
+AprendizajeConReglasDeAsociacion/build
+AprendizajeConReglasDeAsociacion/dist
+AprendizajeConReglasDeAsociacion/ef*
+*.pyc
